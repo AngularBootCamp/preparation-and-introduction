@@ -41,7 +41,7 @@ https://nodejs.org/en/
 ```
 
 Angular CLI requires Node.js 10.13 or later. We recommend
-**Node.js version 12.13.0 or higher "LTS"**.
+**Node.js version 12.16.2 or later "LTS"**.
 
 Installers are available for Windows and Mac; on Linux you can likely
 obtain it using your package manager easily. We also strongly
