@@ -72,3 +72,13 @@ strong {
     column-count: 1;
   }
 }
+
+iframe {
+  display: block;
+  border: 0;
+}
+
+.events {
+  display: grid;
+  place-items: center;
+}
