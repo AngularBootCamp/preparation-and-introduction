@@ -79,7 +79,7 @@ and use a command like so:
 
 ```
 cd abc
-npm run abc 100
+npm run serve 100
 ```
 
 Change "100" to the example number. Press control-C to stop the
