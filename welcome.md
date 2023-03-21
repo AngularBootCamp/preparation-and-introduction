@@ -34,19 +34,15 @@ on GitHub, then use it to log in to StackBlitz.
 
 ### Install Node (which includes NPM)
 
-Node can be found here:
+Node.js is a JavaScript runtime environment used by many
+Angular-related tools. Please download and install Node.js from [the
+Node.js web site](http://nodejs.org/). The Node.js installer also
+includes npm. We recommend installing the LTS (Long Term Support)
+version of Node.js.
 
-```
-https://nodejs.org/en/
-```
-
-Angular CLI requires Node.js 12.20 or later. We recommend
-**Node.js version 16.13.0 or higher "LTS"**.
-
-Installers are available for Windows and Mac; on Linux you can likely
-obtain it using your package manager easily. We also strongly
-recommend using NVM on Linux, to simplify keeping up-to-date on Node
-even if your distribution is not the very latest.
+Linux users: we recommend you install Node.js using your package
+manager or using a tool like [NVM](https://github.com/creationix/nvm)
+or [N](https://github.com/tj/n).
 
 ### Download and unzip the course materials
 
